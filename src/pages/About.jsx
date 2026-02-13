@@ -13,7 +13,7 @@ const About = ({ cart, borrarProducto }) => {
       <div className="container">
         <div className="text-column">
         
-          <p> <strong>¡Hola! Soy Verónica.</strong></p>
+          <h2>¡Hola! Soy Verónica.</h2>
           <p>Si estás leyendo esto, probablemente compartimos algo: el deseo de sentirnos mejor, de tener más energía y de construir una versión más fuerte de nosotros mismos.</p>
           <p>Este espacio no es solo un sitio web. Es el resultado de años de aprendizaje, constancia y evolución personal en el mundo del fitness.</p>
           <p>Mi historia no empezó con un físico perfecto ni con disciplina absoluta. Empezó con una sensación: algo no estaba funcionando. Mi energía no era la que quería y mi cuerpo no reflejaba cómo deseaba sentirme. Durante la pandemia, cuando no podía entrenar como estaba acostumbrada, sentí frustración e incertidumbre. Pero también fue el momento en el que decidí hacerme responsable de mi proceso.</p>
