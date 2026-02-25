@@ -1,12 +1,19 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Características
 
-Currently, two official plugins are available:
+- **Diseño Responsive:** Optimizado para dispositivos móviles, tablets y desktops gracias a Bootstrap.
+- **Navegación Fluida:** Experiencia de usuario dinámica mediante componentes de React.
+- **Secciones Detalladas:** - Planes de entrenamiento personalizados.
+  - Galería de servicios.
+  - Formulario de contacto y enlaces a redes sociales.
+- **UI Moderna:** Estética profesional enfocada en el sector salud y bienestar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Stack Tecnológico
 
-## Expanding the ESLint configuration
+* **Frontend:** [React.js](https://reactjs.org/)
+* **Estilos:** [Bootstrap 5](https://getbootstrap.com/) & CSS3 personalizado.
+* **Iconos:** [FontAwesome](https://fontawesome.com/) o React Icons.
+* **Despliegue:** [Netlify](https://www.netlify.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
